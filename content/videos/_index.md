@@ -9,8 +9,8 @@ view: compact
 
 ## 🚧 Video Content Coming Soon! 🚧
 
-I am currently engineering my first series of short videos covering topics like **AI in Security Automation, DevSecOps pipelines, and cloud hardening**
+I am currently engineering my 11 first series of short videos covering topics like **AI in Security Automation, DevSecOps pipelines, and cloud hardening**
 
 Check back soon!
 
-{{< figure src="/home/vivimelon/portfolio-website/devops-portflio/static/uploads/coming-soon.png" alt="Under Construction Clipart" width="400" >}}
+{{< figure src="./static/uploads/coming-soon.png" alt="Under Construction Clipart" width="400" >}}
