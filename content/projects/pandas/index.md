@@ -4,9 +4,15 @@ date: 2025-09-25
 links:
   - type: site
     url: https://github.com/Ash-394/ethIndia2025
+    name: GitHub Repo
+
+tags:
   - Agentic AI
   - GraphRAG
   - Blockchain
+  - Web3
+  - Filecoin
+  - Flow
 ---
 
 ETHOSIntel: Using AI Agents and Web3 to Build Public Trust
